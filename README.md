@@ -5,7 +5,7 @@ Hi, I made this project during the 7 Days Free Bootcamp, Hotstar Clone - 2022 co
 Here's the link for you to watch the sessions as well
 
 
-![hqdefault](https://user-images.githubusercontent.com/101738599/177856017-a104dad0-905c-4181-a165-7842fcc11f97.jpg)
+[![Disney-Hotstar-Clone](https://user-images.githubusercontent.com/101738599/177860492-e3c60cd7-780a-4492-9108-c25fb6a8824a.jpg)](https://www.youtube.com/watch?v=PL7zl8TDRnbung3xbjIuUKn8XncUCrhQ_w)
 
 I got to have hands on experience on:
 
@@ -15,4 +15,4 @@ I got to have hands on experience on:
 
 * Bootstrap
 
-during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
+during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn
