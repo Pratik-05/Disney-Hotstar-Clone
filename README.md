@@ -4,8 +4,7 @@ Hi, I made this project during the 7 Days Free Bootcamp, Hotstar Clone - 2022 co
 
 Here's the link for you to watch the sessions as well
 
-
-[![Disney-Hotstar-Clone](https://user-images.githubusercontent.com/101738599/177860492-e3c60cd7-780a-4492-9108-c25fb6a8824a.jpg)](https://www.youtube.com/watch?v=PL7zl8TDRnbung3xbjIuUKn8XncUCrhQ_w)
+[![Disney-Hotstar-Clone](https://img.youtube.com/vi/X02oSaHLUeE/0.jpg)](https://www.youtube.com/watch?v=X02oSaHLUeE)
 
 I got to have hands on experience on:
 
